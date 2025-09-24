@@ -1,13 +1,13 @@
 {
-    "name": "chunk-upload",
-    "version": "1.0.0",
-    "description": "文件上传的服务端实现和浏览器实现",
-    "main": "src/index.js",
-    "scripts": {},
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "multiparty": "^4.2.3"
-    }
+  "name": "chunk-upload",
+  "version": "1.0.0",
+  "description": "文件上传的服务端实现",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "multiparty": "^4.2.3"
+  }
 }

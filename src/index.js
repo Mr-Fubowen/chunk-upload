@@ -6,5 +6,5 @@ module.exports = {
     db,
     uploadChunk,
     upload,
-    save,
+    save
 }
